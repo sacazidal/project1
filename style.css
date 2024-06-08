@@ -93,7 +93,7 @@ button {
 
 .banner-wrap {
     padding: 425px 0 100px;
-    background: url(../img/home-bg.jpg) no-repeat;
+    background: url(./img/home-bg.jpg) no-repeat;
     background-size: cover;
 }
 
@@ -160,22 +160,22 @@ button {
 
 .category__link:nth-child(1) {
     grid-area: img1;
-    background: url(../img/category-1.jpg) 50% 0%/cover no-repeat;
+    background: url(./img/category-1.jpg) 50% 0%/cover no-repeat;
 }
 
 .category__link:nth-child(2) {
     grid-area: img2;
-    background: url(../img/category-2.jpg) 50% 0%/cover no-repeat;
+    background: url(./img/category-2.jpg) 50% 0%/cover no-repeat;
 }
 
 .category__link:nth-child(3) {
     grid-area: img3;
-    background: url(../img/category-3.jpg) 50% 0%/cover no-repeat;
+    background: url(./img/category-3.jpg) 50% 0%/cover no-repeat;
 }
 
 .category__link:nth-child(4) {
     grid-area: img4;
-    background: url(../img/category-4.jpg) 50% 0%/cover no-repeat;
+    background: url(./img/category-4.jpg) 50% 0%/cover no-repeat;
 }
 
 .category__name {
@@ -255,14 +255,14 @@ button {
 .style-left {
     width: 49%;
     height: 100%;
-    background: url(../img/style-1.jpg) 50% 100%/550px no-repeat;
+    background: url(./img/style-1.jpg) 50% 100%/550px no-repeat;
 }
 
 .style-right {
     position: relative;
     width: 49%;
     height: 100%;
-    background: url(../img/style-2.jpg) 0% 0%/515px no-repeat;
+    background: url(./img/style-2.jpg) 0% 0%/515px no-repeat;
 }
 
 .style-right::after {
@@ -272,7 +272,7 @@ button {
     right: 0;
     width: 252px;
     height: 303px;
-    background: #fff url(../img/style-3.jpg) 100% 100%/227px 281px no-repeat
+    background: #fff url(./img/style-3.jpg) 100% 100%/227px 281px no-repeat
 }
 
 .style__link {
@@ -305,7 +305,7 @@ button {
 
 .collection-wrap {
     margin-top: 115px;
-    background: url(../img/collection-bg.jpg);
+    background: url(./img/collection-bg.jpg);
     background-size: cover;
 }
 
@@ -357,7 +357,7 @@ button {
     left: 0;
     width: 15px;
     height: 15px;
-    background: url(../img/location.svg) 50% 50%/100% no-repeat;
+    background: url(./img/location.svg) 50% 50%/100% no-repeat;
     transform: translateY(-50%)
 }
 
